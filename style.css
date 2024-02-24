@@ -1,0 +1,75 @@
+body {
+    background-image: url('bg-screen.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: start;
+    flex-direction: column;
+}
+
+.img2 {
+    margin-top: -400px;
+    margin-left: 1000px;
+}
+.img3 {
+    margin-top: -600px;
+    margin-left: 40px;
+    transform: rotate(60deg);
+}
+.img4 {
+    margin-top: -200px;
+    margin-left: 1600px
+}
+.img5 {
+    margin-top: 700px;
+    margin-left: 1200px;
+    transform: rotate(-30deg);
+}
+
+.div1 {
+    margin-top: 200px;
+    margin-left: 81px;
+    font-size: 64px;
+    width: 517px;
+    height: 231px;
+    color: white;
+}
+.div2 {
+    margin-top: -300px;
+    margin-left: 81px;
+    color:gray;
+    width: 517px;
+    height: 231px;
+}
+
+header {
+    margin-top: 30px;
+    margin-left: 50px;
+    color:white;
+    font-size: 30px
+}
+.menu-container {
+    margin-top: -45px;
+}
+menu {
+    display: inline-flex;
+    justify-content: flex-end;
+    width: 400px;
+    height: 19px;
+    font-size: 20px;
+    color: #C1CCC7;
+}
+span {
+    color:aqua;
+}   
+
+.svg1 {
+    margin-top: -500px;
+    margin-left: 1850px;
+}
+.svg2 {
+    margin-left: 81px;
+    margin-top: 75px;
+}
